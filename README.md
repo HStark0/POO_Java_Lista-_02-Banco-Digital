@@ -34,6 +34,8 @@ Um sistema bancário digital completo implementado em Java, seguindo os princíp
 - **Tratamento de exceções**
 - **Organização de pacotes**
 
-✍️ Autor
+## ✍️ Autores
 
 **Henderson Lima de Souza**
+
+**Christian Rodrigues Sangalli**
